@@ -89,17 +89,21 @@ Feel free to explore these repositories to see my work in action!
 ## 📝 Blog & Stats
 
 
+<div>
 <a href="https://wakatime.com/@7f7f07a4-92f5-46b1-a2e7-4b621eb779b9">
   <img src="https://wakatime.com/badge/user/7f7f07a4-92f5-46b1-a2e7-4b621eb779b9.svg" alt="wakatime" />
 </a>
+</div>
 
 <!-- <a href="https://github.com/theprantadutta">
   <img src="https://github-readme-stats.vercel.app/api?username=theprantadutta&show_icons=true&theme=radical" alt="GitHub Stats" />
 </a> -->
 
+<div>
 <a href="https://github.com/theprantadutta">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprantadutta&layout=compact&theme=radical" alt="Top Languages" />
 </a>
+</div>
 
 
 ---
