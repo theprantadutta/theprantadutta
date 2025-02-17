@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://pranta.dev/profile.png" alt="Pranta Dutta" width="150" height="150" style="border-radius: 50%; object-fit: cover;"/>
+  <div align="center">
+  <img src="./avatar.png" alt="Pranta Dutta" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+</div>
 
   <h1>Hi there, I'm PRANTA Dutta! 👋</h1>
   <p>
