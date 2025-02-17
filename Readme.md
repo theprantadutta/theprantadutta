@@ -105,6 +105,10 @@ Feel free to explore these repositories to see my work in action!
 </a>
 </div>
 
+<div>
+<figure><embed src="https://wakatime.com/share/@theprantadutta/f109524a-0c53-4379-8139-7b6f64607127.svg"></embed></figure>
+</div>
+
 
 ---
 
