@@ -4,9 +4,9 @@
 </div>
 
   <h1>Hi there, I'm PRANTA Dutta! 👋</h1>
-  <p>
-    Passionate Developer | Open-Source Enthusiast | Lifelong Learner  
-  </p>
+  <p>🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer | ⚙️ DevOps Engineer</p>
+  <p>🌍 Visit my portfolio: <a href="https://pranta.dev" target="_blank">pranta.dev</a></p>
+
   <p>
     🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
     🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
