@@ -1,9 +1,18 @@
 <div align="center">
+  <img src="https://pranta.dev/profile.png" alt="Pranta Dutta" width="150" height="150" style="border-radius: 50%; object-fit: cover;"/>
+
   <h1>Hi there, I'm PRANTA Dutta! 👋</h1>
   <p>
-    Passionate Developer | Open-Source Enthusiast | Lifelong Learner
+    Passionate Developer | Open-Source Enthusiast | Lifelong Learner  
   </p>
-  <!-- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding GIF" width="300"> -->
+  <p>
+    🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
+    🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
+  </p>
+  <p>
+    I love building scalable applications, optimizing workflows, and designing seamless user experiences.  
+    When I'm not coding, I enjoy contributing to open source, learning about new technologies, and exploring DevOps strategies.
+  </p>
 </div>
 
 ---
@@ -75,20 +84,22 @@ Feel free to explore these repositories to see my work in action!
 
 ---
 
-## 📊 GitHub Stats
+## 📝 Blog & Stats
 
 <div align="center">
   <a href="https://wakatime.com/@7f7f07a4-92f5-46b1-a2e7-4b621eb779b9">
     <img src="https://wakatime.com/badge/user/7f7f07a4-92f5-46b1-a2e7-4b621eb779b9.svg" alt="wakatime" />
   </a>
- 
+
   <!-- <a href="https://github.com/theprantadutta">
     <img src="https://github-readme-stats.vercel.app/api?username=theprantadutta&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a> -->
+
   <a href="https://github.com/theprantadutta">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprantadutta&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
+
 
 ---
 
