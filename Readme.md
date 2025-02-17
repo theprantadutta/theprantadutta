@@ -5,7 +5,7 @@
 
   <h1>Hi there, I'm PRANTA Dutta! 👋</h1>
   <p>🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer | ⚙️ DevOps Engineer</p>
-  <p>🌍 Visit my portfolio: <a href="https://pranta.dev" target="_blank">pranta.dev</a></p>
+  <p>🌍 Visit my portfolio: <a href="https://pranta.dev" target="_blank" rel="noopener noreferrer">pranta.dev</a></p>
 
   <p>
     🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
