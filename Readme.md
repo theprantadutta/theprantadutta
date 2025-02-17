@@ -10,9 +10,9 @@
   <p>
     🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
     🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
-    📊 Data Science Aficionado | 🧑‍💻 Software Architect | 🔒 Cybersecurity Advocate  
+    | 🧑‍💻 Software Architect | 🔒 Cybersecurity Advocate  
     🌱 Passionate about AI & Machine Learning | 💡 Problem Solver | 💬 Open-Source Contributor  
-    🔧 Building Scalable Solutions | 🏗️ Creating Meaningful Products | 🚀 Always Learning & Evolving
+    🔧 Building Scalable Solutions | 🏗️ Creating Meaningful Products
   </p>
 
   <p>
