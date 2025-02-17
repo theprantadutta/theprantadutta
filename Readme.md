@@ -10,7 +10,11 @@
   <p>
     🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
     🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
+    📊 Data Science Aficionado | 🧑‍💻 Software Architect | 🔒 Cybersecurity Advocate  
+    🌱 Passionate about AI & Machine Learning | 💡 Problem Solver | 💬 Open-Source Contributor  
+    🔧 Building Scalable Solutions | 🏗️ Creating Meaningful Products | 🚀 Always Learning & Evolving
   </p>
+
   <p>
     I love building scalable applications, optimizing workflows, and designing seamless user experiences.  
     When I'm not coding, I enjoy contributing to open source, learning about new technologies, and exploring DevOps strategies.
