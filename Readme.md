@@ -80,7 +80,7 @@ Take a look at some of my highlighted projects:
 - [**Quotely**](https://github.com/theprantadutta/project_flutter_app)  
   *Quotely is a Flutter app designed for quote enthusiasts. It allows users to explore, save, and share inspirational quotes from various authors. With beautiful custom UI and seamless functionality, Quotely provides a delightful experience for browsing quotes, searching for authors, and staying inspired with daily notifications.*
 
-- [**Better Clocke**](https://github.com/theprantadutta/better_clock_flutter_app)  
+- [**Better Clock**](https://github.com/theprantadutta/better_clock_flutter_app)  
   *Better Clock is a Flutter app designed as an improved version of the default Android Clock app. It includes core features like setting Alarms, World Clock, Stopwatch, and Timer, aiming to provide a seamless and enhanced user experience.*
 
 - [**FileFly**](https://github.com/theprantadutta/filefly)  
