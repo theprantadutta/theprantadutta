@@ -8,8 +8,7 @@
   <p>🌍 Visit my portfolio: <a href="https://pranta.dev" target="_blank" rel="noopener noreferrer">pranta.dev</a></p>
 
   <p>
-    🚀 Full-Stack Developer | 📱 Mobile App Enthusiast | 🖥️ System Designer  
-    🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
+    🚀 Full-Stack Developer | 📱 Mobile App Developer | 🌍💻📱 Cross-Plaform Specialist | 🖥️ System Designer  🌍 Exploring Cloud Technologies & DevOps | 🛠️ Automation & Optimization  
     | 🧑‍💻 Software Architect | 🔒 Cybersecurity Advocate  
     🌱 Passionate about AI & Machine Learning | 💡 Problem Solver | 💬 Open-Source Contributor  
     🔧 Building Scalable Solutions | 🏗️ Creating Meaningful Products
