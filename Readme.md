@@ -76,7 +76,7 @@ Take a look at some of my highlighted projects:
 - [**FilmMate**](https://github.com/theprantadutta/filmmate_flutter_app)  
   *FilmMate is a Flutter app designed for movie enthusiasts. It allows users to explore detailed information about various movies, including trailers, cast details, posters, reviews, and more. Built with data from TMDB and OMDB APIs, FilmMate provides a sleek and visually appealing interface for browsing the latest, most popular, and top-rated movies.*
 
-- [**Quotely**](https://github.com/theprantadutta/project_flutter_app)  
+- [**Quotely**](https://github.com/theprantadutta/quotely_flutter_app)  
   *Quotely is a Flutter app designed for quote enthusiasts. It allows users to explore, save, and share inspirational quotes from various authors. With beautiful custom UI and seamless functionality, Quotely provides a delightful experience for browsing quotes, searching for authors, and staying inspired with daily notifications.*
 
 - [**Better Clock**](https://github.com/theprantadutta/better_clock_flutter_app)  
