@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Me
-I’m a **software engineer with 3+ years of experience** building **production-grade mobile apps, full-stack systems, and DevOps solutions**.  
+I’m a **software engineer with 4+ years of experience** building **production-grade mobile apps, full-stack systems, and DevOps solutions**.  
 I specialize in **Flutter** and **React Native** for mobile, **Go/ASP.NET Core** for backend, and **Docker + CI/CD** for deployments.  
 Lately, I’ve been **integrating Generative AI & LLMs** into apps — from **AI-powered journaling** to **conversational agents**.
 
