@@ -95,8 +95,12 @@ Explore more at **[pranta.dev/projects](https://pranta.dev/projects)**.
   <img src="https://wakatime.com/badge/user/7f7f07a4-92f5-46b1-a2e7-4b621eb779b9.svg" alt="Wakatime" />
 </a>
 
-<a href="https://github.com/theprantadutta">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprantadutta&layout=compact&theme=radical" alt="Top Languages" />
+<a href="https://github.com/theprantadutta?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theprantadutta&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theprantadutta&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theprantadutta&theme=default" alt="Top Languages by Repo" />
+  </picture>
 </a>
 
 ---
