@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Pranta Dutta 👋</h1>
   <p>🚀 Mobile & Full-Stack Engineer | 🖥️ System Designer | ⚙️ DevOps | 🤖 AI/LLM Integrator</p>
-  <p>🌍 <a href="https://pranta.dev" target="_blank">pranta.dev</a> | <a href="https://www.linkedin.com/in/theprantadutta" target="_blank">LinkedIn</a> | <a href="https://play.google.com/store/apps/developer?id=PRANTA+Dutta" target="_blank">Google Play</a></p>
+  <p>🌍 <a href="https://pranta.dev" target="_blank">pranta.dev</a> | <a href="https://www.linkedin.com/in/theprantadutta" target="_blank">LinkedIn</a> | <a href="https://play.google.com/store/apps/developer?id=PRANTA+Dutta" target="_blank">Google Play</a> | <a href="https://apps.apple.com/us/developer/pranta-dutta/id6778280012" target="_blank">App Store</a></p>
 </div>
 
 ---
@@ -69,7 +69,7 @@ I also publish [**tiny_state**](https://pub.dev/packages/tiny_state) on pub.dev 
 - [**FreeWay**](https://github.com/theprantadutta/freeway) — Self-hosted AI gateway in ASP.NET Core. Per-project API keys, hard quotas and token-level cost tracking, so LLM spend is capped and attributable.
 - [**FileFly**](https://github.com/theprantadutta/filefly) — Rust CLI for file operations with progress tracking and logging.
 
-**Mobile apps** (Flutter, on Google Play)
+**Mobile apps** (Flutter — published on [Google Play](https://play.google.com/store/apps/developer?id=PRANTA+Dutta) and the [App Store](https://apps.apple.com/us/developer/pranta-dutta/id6778280012))
 - [**PinPoint**](https://github.com/theprantadutta/pinpoint) — Privacy-first notes. Encrypted on-device before upload, so the server stores ciphertext it cannot read.
 - [**The Accountant**](https://github.com/theprantadutta/the_accountant) — Privacy-focused personal finance: multi-account tracking, budgets, spending insights.
 - [**AI Persona**](https://github.com/theprantadutta/ai_persona) — Custom AI companions via Gemini, with voice and per-persona knowledge bases.
@@ -111,7 +111,8 @@ Explore more at **[pranta.dev/projects](https://pranta.dev/projects)**.
 - 🐦 [Twitter](https://twitter.com/theprantadutta)  
 - 🌍 [Portfolio](https://pranta.dev)  
 - 📝 [Dev.to](https://dev.to/pranta)  
-- 📱 [Google Play](https://play.google.com/store/apps/developer?id=PRANTA+Dutta)
+- 📱 [Google Play](https://play.google.com/store/apps/developer?id=PRANTA+Dutta)  
+- 🍏 [App Store](https://apps.apple.com/us/developer/pranta-dutta/id6778280012)
 
 ---
 
