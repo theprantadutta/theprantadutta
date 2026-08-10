@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./avatar.png" alt="Pranta Dutta" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
-  <h1>Hi, I'm PRANTA Dutta 👋</h1>
+  <h1>Hi, I'm Pranta Dutta 👋</h1>
   <p>🚀 Mobile & Full-Stack Engineer | 🖥️ System Designer | ⚙️ DevOps | 🤖 AI/LLM Integrator</p>
   <p>🌍 <a href="https://pranta.dev" target="_blank">pranta.dev</a> | <a href="https://www.linkedin.com/in/theprantadutta" target="_blank">LinkedIn</a> | <a href="https://play.google.com/store/apps/developer?id=PRANTA+Dutta" target="_blank">Google Play</a></p>
 </div>
@@ -18,6 +18,27 @@ I focus on:
 - Delivering **seamless user experiences**.
 - **Automating everything** possible in the dev pipeline.
 - Experimenting with **AI-assisted development** and smart features.
+
+---
+
+## 🌱 Open Source
+
+**8 merged pull requests** in Flutter and the wider Dart ecosystem — reviewed and shipped by the teams that maintain them, including Google's core Flutter team.
+
+| Project | PR | What it fixed |
+| --- | --- | --- |
+| `flutter/flutter` | [#187443](https://github.com/flutter/flutter/pull/187443) | `flutter create` app template now passes `dart format` cleanly |
+| `flutter/flutter` | [#188382](https://github.com/flutter/flutter/pull/188382) | Same for the plugin example template |
+| `flutter/packages` | [#11880](https://github.com/flutter/packages/pull/11880) | **Pigeon**: clear error for unsupported enhanced enums instead of an obscure failure |
+| `flutter/packages` | [#11894](https://github.com/flutter/packages/pull/11894) | **Pigeon**: usage docs on generated Dart event channel methods |
+| `flutter/packages` | [#11793](https://github.com/flutter/packages/pull/11793) | **path_provider**: documented `null` vs `UnsupportedError` return semantics |
+| `supabase/supabase-flutter` | [#1365](https://github.com/supabase/supabase-flutter/pull/1365) | Realtime channel rejoin failing on an expired cached JWT |
+| `getsentry/sentry-dart` | [#3697](https://github.com/getsentry/sentry-dart/pull/3697) | `sentryOnError` made synchronous in `runZonedGuarded` — errors were being silently swallowed |
+| `getsentry/sentry-dart` | [#3698](https://github.com/getsentry/sentry-dart/pull/3698) | SDK diagnostic logs now reach the browser console on web |
+
+I also publish [**tiny_state**](https://pub.dev/packages/tiny_state) on pub.dev — a lightweight reactive state management library for Flutter with no code generation and no `build_runner` step.
+
+📝 I wrote about how this happened: [Everyone Complains About Flutter. Almost Nobody Fixes It.](https://dev.to/pranta/everyone-complains-about-flutter-almost-nobody-fixes-it-3342)
 
 ---
 
@@ -41,16 +62,29 @@ I focus on:
 ---
 
 ## 🚀 Featured Projects
-Here are some of my recent and notable works:
 
-- [**RustyPotato**](https://github.com/theprantadutta/rustypotato) — High-performance Redis-compatible KV store in Rust (>1M ops/sec for GET).  
-- [**AI Persona**](https://github.com/theprantadutta/ai_persona) — AI-powered character chat app using Gemini APIs with adaptive theming.  
-- [**Vibe Journal**](https://github.com/theprantadutta/vibe_journal) — AI-driven journaling app that converts voice entries into mood insights.  
-- [**KDS Portal**] — Enterprise employee self-service app (salary, attendance, loans) for 3K+ users.  
-- [**KDS Zakat**] — Real-time NFC-based donation tracking system with fraud prevention.  
-- [**Plot Twist**](https://github.com/theprantadutta/plot_twist) — Personal cinema diary with real-time movie search.  
-- [**Better Clock**](https://github.com/theprantadutta/better_clock_flutter_app) — Enhanced Android clock app with alarms, world clock, and timers.  
-- [**FileFly**](https://github.com/theprantadutta/filefly) — Rust-based CLI for file operations with logging and performance tracking.  
+**Systems & infrastructure**
+- [**RustyPotato**](https://github.com/theprantadutta/rustypotato) — Redis-compatible key-value store written from scratch in Rust. Speaks the RESP protocol, so existing Redis clients connect unchanged. >1M GET ops/sec.
+- [**FileRunner**](https://github.com/theprantadutta/filerunner) — Self-hostable file service and CDN. Rust on the delivery path, Next.js dashboard, API-key auth.
+- [**FreeWay**](https://github.com/theprantadutta/freeway) — Self-hosted AI gateway in ASP.NET Core. Per-project API keys, hard quotas and token-level cost tracking, so LLM spend is capped and attributable.
+- [**FileFly**](https://github.com/theprantadutta/filefly) — Rust CLI for file operations with progress tracking and logging.
+
+**Mobile apps** (Flutter, on Google Play)
+- [**PinPoint**](https://github.com/theprantadutta/pinpoint) — Privacy-first notes. Encrypted on-device before upload, so the server stores ciphertext it cannot read.
+- [**The Accountant**](https://github.com/theprantadutta/the_accountant) — Privacy-focused personal finance: multi-account tracking, budgets, spending insights.
+- [**AI Persona**](https://github.com/theprantadutta/ai_persona) — Custom AI companions via Gemini, with voice and per-persona knowledge bases.
+- [**Vibe Journal**](https://github.com/theprantadutta/vibe_journal) — Journaling app that turns voice entries into mood insights.
+- [**Snake Classic**](https://github.com/theprantadutta/snake_classic) — Classic snake, rebuilt for smooth 60 FPS.
+- [**Plot Twist**](https://github.com/theprantadutta/plot_twist) · [**Better Clock**](https://github.com/theprantadutta/better_clock_flutter_app) · [**Quotely**](https://github.com/theprantadutta/quotely_flutter_app)
+
+**Libraries**
+- [**tiny_state**](https://pub.dev/packages/tiny_state) — Reactive state management for Flutter. No code generation, no `build_runner`.
+- [**react-util-hooks**](https://github.com/theprantadutta/react-util-hooks) — A React hooks library covering the common cases.
+
+**Enterprise work** (KDS Group — internal, not open source)
+- **KDS Zakat** — NFC distribution system with offline-first sync and background reconciliation. Cut fraudulent claims by 99.99%.
+- **KDS Portal** — Employee self-service app integrated with the internal HRMS. Improved HR processing speed by 40%.
+- **KDS QMS / KDS TLS** — Factory quality control and real-time production tracking, with an AI assistant over live data via MCP.
 
 Explore more at **[pranta.dev/projects](https://pranta.dev/projects)**.
 
