@@ -2,22 +2,22 @@
   <img src="./avatar.png" alt="Pranta Dutta" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
   <h1>Hi, I'm Pranta Dutta 👋</h1>
-  <p>🚀 Mobile & Full-Stack Engineer | 🖥️ System Designer | ⚙️ DevOps | 🤖 AI/LLM Integrator</p>
+  <p>📱 Flutter & React Native Engineer | 🛠️ 10 merged PRs in the Flutter SDK, DevTools & Pigeon | ⚙️ Rust · Go · ASP.NET Core</p>
   <p>🌍 <a href="https://pranta.dev" target="_blank">pranta.dev</a> | <a href="https://www.linkedin.com/in/theprantadutta" target="_blank">LinkedIn</a> | <a href="https://play.google.com/store/apps/developer?id=PRANTA+Dutta" target="_blank">Google Play</a> | <a href="https://apps.apple.com/us/developer/pranta-dutta/id6778280012" target="_blank">App Store</a></p>
 </div>
 
 ---
 
 ## 💡 About Me
-I’m a **software engineer with 4+ years of experience** building **production-grade mobile apps, full-stack systems, and DevOps solutions**.  
-I specialize in **Flutter** and **React Native** for mobile, **Go/ASP.NET Core** for backend, and **Docker + CI/CD** for deployments.  
-Lately, I’ve been **integrating Generative AI & LLMs** into apps — from **AI-powered journaling** to **conversational agents**.
+I’m a software engineer with **4+ years** of experience building production-grade mobile apps, full-stack systems, and DevOps solutions.  
+I specialize in **Flutter** and **React Native** for mobile, Go/ASP.NET Core for backend, and Docker + CI/CD for deployments.  
+Lately I’ve been integrating generative AI and LLMs into apps, from AI-powered journaling to conversational agents.
 
 I focus on:
-- Building **performant, scalable systems** with clean architecture.
-- Delivering **seamless user experiences**.
-- **Automating everything** possible in the dev pipeline.
-- Experimenting with **AI-assisted development** and smart features.
+- Building performant, scalable systems with clean architecture.
+- Delivering seamless user experiences.
+- Automating everything possible in the dev pipeline.
+- Experimenting with AI-assisted development and smart features.
 
 ---
 
