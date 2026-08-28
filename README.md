@@ -23,15 +23,17 @@ I focus on:
 
 ## 🌱 Open Source
 
-**8 merged pull requests** in Flutter and the wider Dart ecosystem — reviewed and shipped by the teams that maintain them, including Google's core Flutter team.
+**10 merged pull requests** across the Flutter, Dart and React Native ecosystems — reviewed and shipped by the teams that maintain them, including Google's core Flutter team.
 
 | Project | PR | What it fixed |
 | --- | --- | --- |
 | `flutter/flutter` | [#187443](https://github.com/flutter/flutter/pull/187443) | `flutter create` app template now passes `dart format` cleanly |
 | `flutter/flutter` | [#188382](https://github.com/flutter/flutter/pull/188382) | Same for the plugin example template |
+| `flutter/devtools` | [#9949](https://github.com/flutter/devtools/pull/9949) | `RenderFlex` overflow in the debugging controls at narrow widths — an issue open since 2022 |
 | `flutter/packages` | [#11880](https://github.com/flutter/packages/pull/11880) | **Pigeon**: clear error for unsupported enhanced enums instead of an obscure failure |
 | `flutter/packages` | [#11894](https://github.com/flutter/packages/pull/11894) | **Pigeon**: usage docs on generated Dart event channel methods |
 | `flutter/packages` | [#11793](https://github.com/flutter/packages/pull/11793) | **path_provider**: documented `null` vs `UnsupportedError` return semantics |
+| `react/react-native-website` | [#5200](https://github.com/react/react-native-website/pull/5200) | Removed an outdated `TextInput` multiline border caveat, across every localized copy of the page |
 | `supabase/supabase-flutter` | [#1365](https://github.com/supabase/supabase-flutter/pull/1365) | Realtime channel rejoin failing on an expired cached JWT |
 | `getsentry/sentry-dart` | [#3697](https://github.com/getsentry/sentry-dart/pull/3697) | `sentryOnError` made synchronous in `runZonedGuarded` — errors were being silently swallowed |
 | `getsentry/sentry-dart` | [#3698](https://github.com/getsentry/sentry-dart/pull/3698) | SDK diagnostic logs now reach the browser console on web |
@@ -70,11 +72,14 @@ I also publish [**tiny_state**](https://pub.dev/packages/tiny_state) on pub.dev 
 - [**FileFly**](https://github.com/theprantadutta/filefly) — Rust CLI for file operations with progress tracking and logging.
 
 **Mobile apps** (Flutter — published on [Google Play](https://play.google.com/store/apps/developer?id=PRANTA+Dutta) and the [App Store](https://apps.apple.com/us/developer/pranta-dutta/id6778280012))
+- [**Snake Classic**](https://github.com/theprantadutta/snake_classic) — Classic snake, rebuilt for smooth 60 FPS. **10,000+ downloads.**
+- [**Cosmo Strike**](https://github.com/theprantadutta/cosmo_strike_flutter_app) — Retro side-scrolling shmup on Flame: a 12-level choreographed campaign, multi-phase bosses, and a full live-service layer over an offline-first sync engine. Backed by an ASP.NET Core 10 API and a Next.js admin dashboard.
+- [**Atlas**](https://github.com/theprantadutta/atlas_flutter_app) — Gamified habit tracker with a living world map, an AI companion that writes weekly reflections, and real-time SignalR sync. Fully playable offline; Drift is the source of truth.
+- [**Odyssey**](https://github.com/theprantadutta/odyssey) — Offline-first travel journal: geotagged photo memories, multi-currency budgets, reusable trip templates, collaborative sharing.
 - [**PinPoint**](https://github.com/theprantadutta/pinpoint) — Privacy-first notes. Encrypted on-device before upload, so the server stores ciphertext it cannot read.
 - [**The Accountant**](https://github.com/theprantadutta/the_accountant) — Privacy-focused personal finance: multi-account tracking, budgets, spending insights.
 - [**AI Persona**](https://github.com/theprantadutta/ai_persona) — Custom AI companions via Gemini, with voice and per-persona knowledge bases.
 - [**Vibe Journal**](https://github.com/theprantadutta/vibe_journal) — Journaling app that turns voice entries into mood insights.
-- [**Snake Classic**](https://github.com/theprantadutta/snake_classic) — Classic snake, rebuilt for smooth 60 FPS.
 - [**Plot Twist**](https://github.com/theprantadutta/plot_twist) · [**Better Clock**](https://github.com/theprantadutta/better_clock_flutter_app) · [**Quotely**](https://github.com/theprantadutta/quotely_flutter_app)
 
 **Libraries**
