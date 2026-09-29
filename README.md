@@ -69,7 +69,6 @@ I also publish [**tiny_state**](https://pub.dev/packages/tiny_state) on pub.dev,
 
 **Systems & infrastructure**
 - [**FreeWay**](https://github.com/theprantadutta/freeway): OpenAI-compatible AI gateway in .NET 10 that runs heavy AI usage at zero cost. Routes free-tier requests across 8 providers ranked by live success benchmarks, adopts the best new free models daily, and serves premium requests from an existing Claude Code subscription under an hourly token budget, with paid models only as a fallback.
-- [**RustyPotato**](https://github.com/theprantadutta/rustypotato): Redis-compatible key-value store written from scratch in Rust. Speaks the RESP protocol, so existing Redis clients connect unchanged. >1M GET ops/sec.
 - [**FileRunner**](https://github.com/theprantadutta/filerunner): Self-hostable file service and CDN. Rust on the delivery path, Next.js dashboard, API-key auth.
 - [**FileFly**](https://github.com/theprantadutta/filefly): Rust CLI for file operations with progress tracking and logging.
 
